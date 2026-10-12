@@ -1,0 +1,5 @@
+pymupdf>=1.24
+pillow>=10
+pylibdmtx>=0.1.10
+setuptools  # pylibdmtx на Python 3.12+ импортирует distutils
+pytest
